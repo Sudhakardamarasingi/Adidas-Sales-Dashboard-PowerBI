@@ -169,7 +169,7 @@ Generative AI Engineer · Bangalore, India
 
 I specialize in building intelligent AI systems — LLMs, RAG pipelines, agentic workflows — and I also enjoy turning raw data into actionable insights through dashboards like this one.
 
-🔗 [GitHub]([https://github.com/sudhakar](https://github.com/Sudhakardamarasingi)) &nbsp;|&nbsp; 🔗 [LinkedIn]([https://linkedin.com/in/sudhakar](https://www.linkedin.com/in/sudhakar-damarasingi/)) &nbsp;|&nbsp; 📧 Feel free to connect and share feedback!
+🔗 [GitHub]([https://github.com/sudhakar](https://github.com/Sudhakardamarasingi) &nbsp;|&nbsp; 🔗 [LinkedIn]([https://linkedin.com/in/sudhakar](https://www.linkedin.com/in/sudhakar-damarasingi/)) &nbsp;|&nbsp; 📧 Feel free to connect and share feedback!
 
 ---
 
